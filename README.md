@@ -3,3 +3,6 @@ This project goes beyond dashboard development by automating the complete data p
 
 Here is the vedio Link :
 https://www.youtube.com/watch?v=voVNtcz2lO4
+
+Here is the Dashboard Link :
+https://app.fabric.microsoft.com/view?r=eyJrIjoiNTc1YTA1YzQtNzJjYS00Y2U3LWJlYTAtNTgxOTM0MzYzOGZiIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D
